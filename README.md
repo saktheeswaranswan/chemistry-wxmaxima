@@ -1,3 +1,9 @@
+very important chemistry reactions testing software 
+https://iokinetic.com/services/chemical-reactivity-testing
+
+https://www.sciencebysimulation.com/chemreax/Analyzer.aspx
+
+
 # 1º DGIIM
 
 Repositorio de apuntes de 1º del Doble grado de Ingeniería Informática y Matemáticas de la UGR, realizado por los estudiantes de dicho curso durante el año académico 2017/2018
